@@ -30,8 +30,7 @@ This project focuses on designing a **relational database schema** for a real-wo
 
 ## 🎥 Project Video
 
-[Watch Project Video]-{https://drive.google.com/file/d/13yEhyBbPzf_UDL0mtYTEYyJ8Z3exbCF-/view?usp=sharing}
-
+[Watch Project Video]-https://drive.google.com/file/d/13yEhyBbPzf_UDL0mtYTEYyJ8Z3exbCF-/view?usp=sharing
 
 
 [LinkedIn](https://www.linkedin.com/in/niraj-gupta-6805192a8) | [GitHub](https://github.com/Nirajgupta8707)
