@@ -26,8 +26,7 @@ This project focuses on designing a **relational database schema** for a real-wo
 
 ## 📁 Project
 
-[View SQL Schema Project]-{https://drive.google.com/file/d/1sbSeO7sYBQxpSO_ZvbO_ghf62OJBdJtB/view?usp=sharing}
-
+[View SQL Schema Project]-https://drive.google.com/file/d/1sbSeO7sYBQxpSO_ZvbO_ghf62OJBdJtB/view?usp=sharing
 ## 🎥 Project Video
 
 [Watch Project Video]-https://drive.google.com/file/d/13yEhyBbPzf_UDL0mtYTEYyJ8Z3exbCF-/view?usp=sharing
